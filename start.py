@@ -1,6 +1,3 @@
-from os import system # chala ja bhai
-system ("git clone https://GitHub.com/Treylon-Userbot/DARKLON && cd DARKLON && python3 -m userbot")
-# try af
-print("OH SYSTEM IS CRASHED")
-system("python3 -m userbot")
-print ("YOU GOT ERROR SAVE THE LOGS AND GIVE THIS LOGS TO @DARKLONXchaT")
+from os import system
+system ("git clone https://GitHub.com/TeamExtremePro/ExtremeProUserbot && cd ExtremeProUserbot && python3 -m amanpandey")
+system("python3 -m amanpandey")
